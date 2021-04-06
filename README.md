@@ -8,7 +8,7 @@ List curated by David Bruant
 
 Svelte is a library that enables to create and compose UI components
 
-I've had a lot of experience with React, a little with Vue and vanilla JS (JavaScript with no framework) and my favorite dev experience has ben with Svelte
+I've had a lot of experience with preact/React, a little with Vue and vanilla JS (JavaScript with no framework) and my favorite dev experience has ben with Svelte
 
 ### [baredux](https://github.com/DavidBruant/baredux)
 
@@ -54,3 +54,14 @@ d3-fetch also has the good idea to consider HTTP 4xx and 5xx responses as errors
 I've had experience with mocha and jest and i prefer ava
 
 
+## Tooling
+
+### [Rollup](rollupjs.org/)
+
+Rollup is a JS bundler. It works fine for me (and is sort of compulsory with svelte anyway).\
+I used browserify for a while
+
+
+### [npm-run-all](https://www.npmjs.com/package/npm-run-all)
+
+This is a great way to compose [npm run scripts](https://docs.npmjs.com/cli/v7/commands/npm-run-script/) so they run in sequence or in parallel
