@@ -23,7 +23,7 @@ a client-side routing library
 I'm more comfortable with a dedicated client-side library that takes care of routing than the approaches à la react-router which makes routes as components
 
 
-## Client-side tools
+## Client-side helper libraries
 
 ### [d3-fetch](https://github.com/d3/d3-fetch)
 
@@ -65,3 +65,10 @@ I used browserify for a while
 ### [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 
 This is a great way to compose [npm run scripts](https://docs.npmjs.com/cli/v7/commands/npm-run-script/) so they run in sequence or in parallel
+
+
+### [sass](https://www.npmjs.com/package/sass)
+
+My favorite way to write CSS is to write SCSS (which is part of the Sass project)
+
+[node-sass](https://npmjs.org/package/node-sass) is [deprecated](https://sass-lang.com/blog/libsass-is-deprecated)
